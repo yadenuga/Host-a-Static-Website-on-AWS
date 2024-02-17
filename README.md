@@ -1,3 +1,5 @@
+![Alt text](/Host_a_Static_Website_on_AWS.png)
+
 ```bash
 #!/bin/bash
 # Switch to the root user to gain full administrative privileges
